@@ -1,0 +1,7 @@
+{
+    "cmake.configureEnvironment": {
+        "CFLAGS": "-m32",
+        "CXXFLAGS": "-m32",
+        "LDFLAGS": "-m32"
+    }
+}

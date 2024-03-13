@@ -1,0 +1,3 @@
+[submodule "port/libultraship"]
+	path = port/libultraship
+	url = https://github.com/ayhazka/libultraship.git
