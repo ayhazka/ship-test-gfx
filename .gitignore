@@ -1,0 +1,8 @@
+*.z64
+*.map
+*.o
+*.elf
+/build/
+/build-cmake/
+config.json
+*.log
